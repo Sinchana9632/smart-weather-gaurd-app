@@ -1,0 +1,23 @@
+{
+  "name": "wea",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
+    "date-fns": "^4.1.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.9.6",
+    "styled-components": "^6.1.19",
+    "vite": "^7.2.4"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.6",
+    "@types/react-dom": "^19.2.3"
+  }
+}
